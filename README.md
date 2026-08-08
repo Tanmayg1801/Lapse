@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/7401cf74-1b7f-4132-bb76-22f71fe8e0fd
+
 # LAPSE
 A Timelapser for my YT channel made in cpp for Linux!
 
